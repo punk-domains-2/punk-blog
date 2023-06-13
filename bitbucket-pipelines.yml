@@ -1,0 +1,16 @@
+image: node:latest
+
+pipelines:
+  branches:
+    main:
+      - step:
+          name: Build Hugo
+          script:
+            - apt-get update -y && apt-get -y install wget git zip
+            - wget -q https://github.com/gohugoio/hugo/releases/download/v0.108.0/hugo_extended_0.108.0_linux-arm64.deb
+            - dpkg -i hugo*.deb
+            - hugo --minify
+            - git checkout -B hugo
+            - git add .
+            - git commit -m "Hugo build"
+            - git push --set-upstream origin hugo -f
