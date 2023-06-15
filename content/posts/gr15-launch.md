@@ -34,7 +34,7 @@ If we want the web3 ecosystem to be truly decentralized and permissionless, we n
 
 So far we have participated in Gitcoin rounds 13 and 14. In Round 13 we raised slightly less than $3k. In Round 14 we’ve raised around $15k from Gitcoin donors. (A huge thanks again to everyone who donated!)
 
-Before GR13 we’ve built and launched **version 1 of the Punk Domains protocol**, which included the [Standard Factory smart contract](https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol), the [Standard TLD contract](https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol), and the [smart contract that coordinates](https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol) which domain extensions have already been registered. 
+Before GR13 we’ve built and launched **version 1 of the Punk Domains protocol**, which included the [Standard Factory smart contract](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol), the [Standard TLD contract](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol), and the [smart contract that coordinates](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol) which domain extensions have already been registered. 
 
 Besides smart contracts we’ve also developed the **frontend** which is accessible via https://punk.domains.
 
@@ -42,7 +42,7 @@ Besides smart contracts we’ve also developed the **frontend** which is accessi
 
 After GR13 we've **launched browser extensions** for all major browsers: [Chrome, Brave, Firefox, Edge, and Opera](https://punk.domains/#/browser). If a punk domain has a URL associated with it, the extension will redirect the user to it. The extension also helps users search punk domains on block explorers.
 
-We have launched the [Flexi smart contracts](https://github.com/punk-domains/punk-contracts/tree/main/contracts/factories/flexi) which make **domain extensions even more powerful**, because they can now have custom images, and feature new contract roles.
+We have launched the [Flexi smart contracts](https://github.com/punk-domains-2/punk-contracts/tree/main/contracts/factories/flexi) which make **domain extensions even more powerful**, because they can now have custom images, and feature new contract roles.
 
 After GR13, **the first 3 web3 communities** got their **own domain extensions** running on top of the Punk Domains protocol:
 
@@ -58,9 +58,9 @@ Funds from GR13 mainly covered the costs of smart contract deployments and some 
 
 Funds raised in GR14 helped us focus more on the project. Two team members now work almost full-time on the Punk Domains protocol.
 
-After this round we've developed a **tiered pricing smart contract** for domain extensions. [This contract](https://github.com/punk-domains/punk-contracts/blob/main/contracts/nft/angel/PunkAngelMinter.sol) sets domain prices based on domain name length. 
+After this round we've developed a **tiered pricing smart contract** for domain extensions. [This contract](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/nft/angel/PunkAngelMinter.sol) sets domain prices based on domain name length. 
 
-Another important development was the **Resolver smart contract**. While each domain contract has an in-built resolver, it is important to have a "global" [resolver contract](https://github.com/punk-domains/punk-contracts/blob/main/contracts/resolver/PunkResolverV1.sol) which can resolve all punk domains in one place. This makes Punk Domains integrations to other products **easier and more durable**, while still being **completely on-chain**.
+Another important development was the **Resolver smart contract**. While each domain contract has an in-built resolver, it is important to have a "global" [resolver contract](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/resolver/PunkResolverV1.sol) which can resolve all punk domains in one place. This makes Punk Domains integrations to other products **easier and more durable**, while still being **completely on-chain**.
 
 We have launched the Punk Domains protocol on two new networks: **BSC**, and the **Ethereum L1 mainnet** (due to a request from a web3 community that has their project running solely on Ethereum L1).
 
