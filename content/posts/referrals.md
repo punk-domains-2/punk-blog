@@ -55,13 +55,14 @@ Both referral links have the same function and both work fine. We suggest using 
 
 Some punk domains are owned and operated by our partners and the minting app is hosted on their website. 
 
-Here is a list of some of our partners websites or special pages:
+Here is a list of some of our partners websites:
 
-- Layer2DAO: https://punk.domains/#/partners/l2dao
-- Songbird Domains: https://songbird.domains/#/ 
-- People Domains: https://ppl.domains/#/ 
-- KlimaDAO: http://www.kns.earth/#/
-- The Wild Bunch Domains: https://twb.punk.domains/#/ 
+- Flare Domains: https://flr.domains/
+- Giveth Names: https://giveth.punk.domains/
+- PoolTogether: https://names.pooly.me/
+- Songbird Domains: https://songbird.domains/
+- People Domains: https://ppl.domains/
+- KlimaDAO: http://www.kns.earth/
 
 If you intend to promote our partners domains, make sure to use the correct URL as the referral link. 
 

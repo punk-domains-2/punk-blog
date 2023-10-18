@@ -8,7 +8,7 @@ cover:
 
 As you already know, Punk Domains is a web3 domains protocol that can issue domain extensions for DAOs and other web3 communities.
 
-Some of the protocol clients include renowned names such as KlimaDAO (.klima domain extension), Layer2DAO (.L2), Smol Brains NFT community (.smol), PoolTogether (.pool), etc.
+Some of these communities include renowned names such as PoolTogether (.pool), KlimaDAO (.klima domain extension), Smol Brains NFT community (.smol), Giveth (.giveth), etc.
 
 As it's common with open-source software, Punk Domains protocol is **developed and maintained by contributors**.
 
