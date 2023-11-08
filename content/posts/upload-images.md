@@ -10,10 +10,10 @@ This tutorial will guide you on how to upload images on the internet, so that yo
 
 There are many ways how to upload an image, we'll take a look at these two:
 
-- PostImages (the easiest way): https://postimages.org/
-- Web3 Storage (IPFS): https://web3.storage/
+- **Option A: PostImages** (the easiest way) - https://postimages.org/
+- **Option B: Web3 Storage** (IPFS) - https://web3.storage/
 
-## PostImages
+## A) PostImages
 
 Step 1: Go to [PostImages.org](https://postimages.org/):
 
@@ -33,7 +33,7 @@ If you uploaded **multiple images**, select the **Direct link** in the dropdown:
 
 Now you can easily copy each image URL.
 
-## Web3 Storage
+## B) Web3 Storage
 
 Web3 Storage allows you to store images on IPFS. Let's see how it works:
 
