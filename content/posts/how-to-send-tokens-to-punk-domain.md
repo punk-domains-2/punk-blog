@@ -18,7 +18,7 @@ Easy, just follow these simple steps:
 
 ### Step 1: Go to the Punk Domains website
 
-The main Punk Domains website is at https://punk.domains, but you may have a punk domain with its own dedicated website, such as [Songbird Domains](https://songbird.domains), [Fantom Names](https://fantomnames.org), [Optimistic Domains](https://optimistic.domains), etc. 
+The main Punk Domains website is at https://punk.domains, but you may have a punk domain with its own dedicated website, such as [Songbird Domains](https://songbird.domains), [Fantom Names](https://fantomname.org), [Optimistic Domains](https://optimistic.domains), etc. 
 
 Sending tokens works the same on each of these websites.
 
